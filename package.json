@@ -1,0 +1,26 @@
+{
+    "name": "dotini",
+    "version": "1.0.1",
+    "description": "A lightweight Node.js module for loading and parsing .ini configuration files into process.ini.",
+    "main": "dotini.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/warfdev/dotini.git"
+    },
+    "keywords": [
+      "ini",
+      "dotenv",
+      "config",
+      "configuration",
+      "nodejs"
+    ],
+    "author": "warfdev <kipcakverdl2@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/warfdev/dotini/issues"
+    },
+    "homepage": "https://github.com/warfdev/dotini#readme"
+  }
